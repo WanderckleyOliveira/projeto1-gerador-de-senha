@@ -5,7 +5,7 @@
 
 <sub> <strong>Segue minhas redes sociais para acompanhar mais conteúdo: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/WanderckleyOliveira)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/wanderckley-oliveira-dos-santos-2a778173)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wanderckley-oliveira-dos-santos-2a778173/)
 
 ## ⚠️ Aviso importante
 

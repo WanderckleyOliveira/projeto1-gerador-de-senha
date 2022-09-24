@@ -12,6 +12,6 @@
 > Antes de tudo, deu bastante trabalho fazer esse repositório, por que eu achei de entrar direto no python pela primeira vez, e não sabia o que fazer e tinha que fazer.
 > Mais creio que nos proximos projetos, ja estarei com mais conhecimentos.
 
-### 💡 Nossa proposta
+### 💡 Minha proposta
 
 > A proposta deste repositório era criar uma aplicação de um pequeno gerador de senhas com criptografias, mais apenas conseguir fazer o codgio e não sabia que era tão complexo e dificil no meu nivel conseguir fazer ele gerar no front-end.
